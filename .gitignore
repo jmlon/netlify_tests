@@ -5,6 +5,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Hugo source project
+victor-hugo-master
+
+
 # Runtime data
 pids
 *.pid
