@@ -1,0 +1,24 @@
+{
+  "name": "netlify_tests",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/88b180e5-e74f-4eec-8454-a1a3a5f33afb/deploy-status)](https://app.netlify.com/sites/tender-bassi-29aea5/deploys)",
+  "main": "like_button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmlon/netlify_tests.git"
+  },
+  "keywords": [],
+  "author": "Jorge Londoño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmlon/netlify_tests/issues"
+  },
+  "homepage": "https://github.com/jmlon/netlify_tests#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
